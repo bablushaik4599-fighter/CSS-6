@@ -1,0 +1,17 @@
+.flex-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: bisque;
+    padding: 50px;
+    height: 300px;
+
+}
+.box{
+    background-color: chocolate;
+    color: blanchedalmond;
+    padding: 40px;
+    font-size: 24px;
+    border-radius: 0px;
+    width: 2000px;
+}
